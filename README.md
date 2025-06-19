@@ -10,5 +10,3 @@ This project focuses on predicting rainfall in Australia using various machine l
 
 
 
-
-
